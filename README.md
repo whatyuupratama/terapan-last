@@ -1,5 +1,9 @@
 # Sistem Rekomendasi Buku
 
+### Result
+
+![Bintang Dicoding](images/bintangdicoding.png)
+
 ## 1. Project Overview
 
 Membaca buku merupakan salah satu cara utama untuk memperoleh pengetahuan dan hiburan. Namun, dengan jumlah buku yang terus bertambah setiap tahunnya, pengguna sering kali mengalami kesulitan dalam menemukan buku yang relevan dan sesuai dengan minat mereka. Menurut laporan UNESCO, lebih dari 2,2 juta judul buku baru diterbitkan setiap tahun di seluruh dunia [^1]. Hal ini menyebabkan information overload, sehingga pengguna membutuhkan bantuan untuk menemukan buku yang tepat.
